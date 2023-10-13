@@ -10,14 +10,8 @@ The project is built with the following components:
 
 -   Vue 3 / Pinia / VueRouter
 -   Vue 3 Composition API
--   Vite 3
 -   Laravel Framework
--   Laravel Sanctum
--   Laravel Fortify
 -   Tailwind
--   ForkAwesome
--   Media Library (by Spatie)
--   Bouncer (by JosephSilber)
 
 ## ⚡️ How to install
 
