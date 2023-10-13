@@ -1,0 +1,2178 @@
+[
+    {
+        "language": "Afrikaans",
+        "details": [
+            {
+                "voice": "af-ZA-AdriNeural",
+                "gender": "Female",
+                "friendly": "Adri",
+                "sample": "voice_samples/Afrikaans/Adri.mp3"
+            },
+            {
+                "voice": "af-ZA-WillemNeural",
+                "gender": "Male",
+                "friendly": "Willem",
+                "sample": "voice_samples/Afrikaans/Willem.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Albanian",
+        "details": [
+            {
+                "voice": "sq-AL-AnilaNeural",
+                "gender": "Female",
+                "friendly": "Anila",
+                "sample": "voice_samples/Albanian/Anila.mp3"
+            },
+            {
+                "voice": "sq-AL-IlirNeural",
+                "gender": "Male",
+                "friendly": "Ilir",
+                "sample": "voice_samples/Albanian/Ilir.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Amharic",
+        "details": [
+            {
+                "voice": "am-ET-AmehaNeural",
+                "gender": "Male",
+                "friendly": "Ameha",
+                "sample": "voice_samples/Amharic/Ameha.mp3"
+            },
+            {
+                "voice": "am-ET-MekdesNeural",
+                "gender": "Female",
+                "friendly": "Mekdes",
+                "sample": "voice_samples/Amharic/Mekdes.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Arabic",
+        "details": [
+            {
+                "voice": "ar-AE-FatimaNeural",
+                "gender": "Female",
+                "friendly": "Fatima",
+                "sample": "voice_samples/Arabic/Fatima.mp3"
+            },
+            {
+                "voice": "ar-AE-HamdanNeural",
+                "gender": "Male",
+                "friendly": "Hamdan",
+                "sample": "voice_samples/Arabic/Hamdan.mp3"
+            },
+            {
+                "voice": "ar-BH-AliNeural",
+                "gender": "Male",
+                "friendly": "Ali",
+                "sample": "voice_samples/Arabic/Ali.mp3"
+            },
+            {
+                "voice": "ar-BH-LailaNeural",
+                "gender": "Female",
+                "friendly": "Laila",
+                "sample": "voice_samples/Arabic/Laila.mp3"
+            },
+            {
+                "voice": "ar-DZ-AminaNeural",
+                "gender": "Female",
+                "friendly": "Amina",
+                "sample": "voice_samples/Arabic/Amina.mp3"
+            },
+            {
+                "voice": "ar-DZ-IsmaelNeural",
+                "gender": "Male",
+                "friendly": "Ismael",
+                "sample": "voice_samples/Arabic/Ismael.mp3"
+            },
+            {
+                "voice": "ar-EG-SalmaNeural",
+                "gender": "Female",
+                "friendly": "Salma",
+                "sample": "voice_samples/Arabic/Salma.mp3"
+            },
+            {
+                "voice": "ar-EG-ShakirNeural",
+                "gender": "Male",
+                "friendly": "Shakir",
+                "sample": "voice_samples/Arabic/Shakir.mp3"
+            },
+            {
+                "voice": "ar-IQ-BasselNeural",
+                "gender": "Male",
+                "friendly": "Bassel",
+                "sample": "voice_samples/Arabic/Bassel.mp3"
+            },
+            {
+                "voice": "ar-IQ-RanaNeural",
+                "gender": "Female",
+                "friendly": "Rana",
+                "sample": "voice_samples/Arabic/Rana.mp3"
+            },
+            {
+                "voice": "ar-JO-SanaNeural",
+                "gender": "Female",
+                "friendly": "Sana",
+                "sample": "voice_samples/Arabic/Sana.mp3"
+            },
+            {
+                "voice": "ar-JO-TaimNeural",
+                "gender": "Male",
+                "friendly": "Taim",
+                "sample": "voice_samples/Arabic/Taim.mp3"
+            },
+            {
+                "voice": "ar-KW-FahedNeural",
+                "gender": "Male",
+                "friendly": "Fahed",
+                "sample": "voice_samples/Arabic/Fahed.mp3"
+            },
+            {
+                "voice": "ar-KW-NouraNeural",
+                "gender": "Female",
+                "friendly": "Noura",
+                "sample": "voice_samples/Arabic/Noura.mp3"
+            },
+            {
+                "voice": "ar-LB-LaylaNeural",
+                "gender": "Female",
+                "friendly": "Layla",
+                "sample": "voice_samples/Arabic/Layla.mp3"
+            },
+            {
+                "voice": "ar-LB-RamiNeural",
+                "gender": "Male",
+                "friendly": "Rami",
+                "sample": "voice_samples/Arabic/Rami.mp3"
+            },
+            {
+                "voice": "ar-LY-ImanNeural",
+                "gender": "Female",
+                "friendly": "Iman",
+                "sample": "voice_samples/Arabic/Iman.mp3"
+            },
+            {
+                "voice": "ar-LY-OmarNeural",
+                "gender": "Male",
+                "friendly": "Omar",
+                "sample": "voice_samples/Arabic/Omar.mp3"
+            },
+            {
+                "voice": "ar-MA-JamalNeural",
+                "gender": "Male",
+                "friendly": "Jamal",
+                "sample": "voice_samples/Arabic/Jamal.mp3"
+            },
+            {
+                "voice": "ar-MA-MounaNeural",
+                "gender": "Female",
+                "friendly": "Mouna",
+                "sample": "voice_samples/Arabic/Mouna.mp3"
+            },
+            {
+                "voice": "ar-OM-AbdullahNeural",
+                "gender": "Male",
+                "friendly": "Abdullah",
+                "sample": "voice_samples/Arabic/Abdullah.mp3"
+            },
+            {
+                "voice": "ar-OM-AyshaNeural",
+                "gender": "Female",
+                "friendly": "Aysha",
+                "sample": "voice_samples/Arabic/Aysha.mp3"
+            },
+            {
+                "voice": "ar-QA-AmalNeural",
+                "gender": "Female",
+                "friendly": "Amal",
+                "sample": "voice_samples/Arabic/Amal.mp3"
+            },
+            {
+                "voice": "ar-QA-MoazNeural",
+                "gender": "Male",
+                "friendly": "Moaz",
+                "sample": "voice_samples/Arabic/Moaz.mp3"
+            },
+            {
+                "voice": "ar-SA-HamedNeural",
+                "gender": "Male",
+                "friendly": "Hamed",
+                "sample": "voice_samples/Arabic/Hamed.mp3"
+            },
+            {
+                "voice": "ar-SA-ZariyahNeural",
+                "gender": "Female",
+                "friendly": "Zariyah",
+                "sample": "voice_samples/Arabic/Zariyah.mp3"
+            },
+            {
+                "voice": "ar-SY-AmanyNeural",
+                "gender": "Female",
+                "friendly": "Amany",
+                "sample": "voice_samples/Arabic/Amany.mp3"
+            },
+            {
+                "voice": "ar-SY-LaithNeural",
+                "gender": "Male",
+                "friendly": "Laith",
+                "sample": "voice_samples/Arabic/Laith.mp3"
+            },
+            {
+                "voice": "ar-TN-HediNeural",
+                "gender": "Male",
+                "friendly": "Hedi",
+                "sample": "voice_samples/Arabic/Hedi.mp3"
+            },
+            {
+                "voice": "ar-TN-ReemNeural",
+                "gender": "Female",
+                "friendly": "Reem",
+                "sample": "voice_samples/Arabic/Reem.mp3"
+            },
+            {
+                "voice": "ar-YE-MaryamNeural",
+                "gender": "Female",
+                "friendly": "Maryam",
+                "sample": "voice_samples/Arabic/Maryam.mp3"
+            },
+            {
+                "voice": "ar-YE-SalehNeural",
+                "gender": "Male",
+                "friendly": "Saleh",
+                "sample": "voice_samples/Arabic/Saleh.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Azerbaijani",
+        "details": [
+            {
+                "voice": "az-AZ-BabekNeural",
+                "gender": "Male",
+                "friendly": "Babek",
+                "sample": "voice_samples/Azerbaijani/Babek.mp3"
+            },
+            {
+                "voice": "az-AZ-BanuNeural",
+                "gender": "Female",
+                "friendly": "Banu",
+                "sample": "voice_samples/Azerbaijani/Banu.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Bengali",
+        "details": [
+            {
+                "voice": "bn-BD-NabanitaNeural",
+                "gender": "Female",
+                "friendly": "Nabanita",
+                "sample": "voice_samples/Bengali/Nabanita.mp3"
+            },
+            {
+                "voice": "bn-BD-PradeepNeural",
+                "gender": "Male",
+                "friendly": "Pradeep",
+                "sample": "voice_samples/Bengali/Pradeep.mp3"
+            },
+            {
+                "voice": "bn-IN-BashkarNeural",
+                "gender": "Male",
+                "friendly": "Bashkar",
+                "sample": "voice_samples/Bengali/Bashkar.mp3"
+            },
+            {
+                "voice": "bn-IN-TanishaaNeural",
+                "gender": "Female",
+                "friendly": "Tanishaa",
+                "sample": "voice_samples/Bengali/Tanishaa.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Bosnian",
+        "details": [
+            {
+                "voice": "bs-BA-GoranNeural",
+                "gender": "Male",
+                "friendly": "Goran",
+                "sample": "voice_samples/Bosnian/Goran.mp3"
+            },
+            {
+                "voice": "bs-BA-VesnaNeural",
+                "gender": "Female",
+                "friendly": "Vesna",
+                "sample": "voice_samples/Bosnian/Vesna.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Bulgarian",
+        "details": [
+            {
+                "voice": "bg-BG-BorislavNeural",
+                "gender": "Male",
+                "friendly": "Borislav",
+                "sample": "voice_samples/Bulgarian/Borislav.mp3"
+            },
+            {
+                "voice": "bg-BG-KalinaNeural",
+                "gender": "Female",
+                "friendly": "Kalina",
+                "sample": "voice_samples/Bulgarian/Kalina.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Myanmar",
+        "details": [
+            {
+                "voice": "my-MM-NilarNeural",
+                "gender": "Female",
+                "friendly": "Nilar",
+                "sample": "voice_samples/Myanmar/Nilar.mp3"
+            },
+            {
+                "voice": "my-MM-ThihaNeural",
+                "gender": "Male",
+                "friendly": "Thiha",
+                "sample": "voice_samples/Myanmar/Thiha.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Catalan",
+        "details": [
+            {
+                "voice": "ca-ES-EnricNeural",
+                "gender": "Male",
+                "friendly": "Enric",
+                "sample": "voice_samples/Catalan/Enric.mp3"
+            },
+            {
+                "voice": "ca-ES-JoanaNeural",
+                "gender": "Female",
+                "friendly": "Joana",
+                "sample": "voice_samples/Catalan/Joana.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Chinese",
+        "details": [
+            {
+                "voice": "zh-CN-XiaoxiaoNeural",
+                "gender": "Female",
+                "friendly": "Xiaoxiao",
+                "sample": "voice_samples/Chinese/Xiaoxiao.mp3"
+            },
+            {
+                "voice": "zh-CN-XiaoyiNeural",
+                "gender": "Female",
+                "friendly": "Xiaoyi",
+                "sample": "voice_samples/Chinese/Xiaoyi.mp3"
+            },
+            {
+                "voice": "zh-CN-YunjianNeural",
+                "gender": "Male",
+                "friendly": "Yunjian",
+                "sample": "voice_samples/Chinese/Yunjian.mp3"
+            },
+            {
+                "voice": "zh-CN-YunxiNeural",
+                "gender": "Male",
+                "friendly": "Yunxi",
+                "sample": "voice_samples/Chinese/Yunxi.mp3"
+            },
+            {
+                "voice": "zh-CN-YunxiaNeural",
+                "gender": "Male",
+                "friendly": "Yunxia",
+                "sample": "voice_samples/Chinese/Yunxia.mp3"
+            },
+            {
+                "voice": "zh-CN-YunyangNeural",
+                "gender": "Male",
+                "friendly": "Yunyang",
+                "sample": "voice_samples/Chinese/Yunyang.mp3"
+            },
+            {
+                "voice": "zh-CN-liaoning-XiaobeiNeural",
+                "gender": "Female",
+                "friendly": "Xiaobei",
+                "sample": "voice_samples/Chinese/Xiaobei.mp3"
+            },
+            {
+                "voice": "zh-CN-shaanxi-XiaoniNeural",
+                "gender": "Female",
+                "friendly": "Xiaoni",
+                "sample": "voice_samples/Chinese/Xiaoni.mp3"
+            },
+            {
+                "voice": "zh-HK-HiuGaaiNeural",
+                "gender": "Female",
+                "friendly": "HiuGaai",
+                "sample": "voice_samples/Chinese/HiuGaai.mp3"
+            },
+            {
+                "voice": "zh-HK-HiuMaanNeural",
+                "gender": "Female",
+                "friendly": "HiuMaan",
+                "sample": "voice_samples/Chinese/HiuMaan.mp3"
+            },
+            {
+                "voice": "zh-HK-WanLungNeural",
+                "gender": "Male",
+                "friendly": "WanLung",
+                "sample": "voice_samples/Chinese/WanLung.mp3"
+            },
+            {
+                "voice": "zh-TW-HsiaoChenNeural",
+                "gender": "Female",
+                "friendly": "HsiaoChen",
+                "sample": "voice_samples/Chinese/HsiaoChen.mp3"
+            },
+            {
+                "voice": "zh-TW-HsiaoYuNeural",
+                "gender": "Female",
+                "friendly": "HsiaoYu",
+                "sample": "voice_samples/Chinese/HsiaoYu.mp3"
+            },
+            {
+                "voice": "zh-TW-YunJheNeural",
+                "gender": "Male",
+                "friendly": "YunJhe",
+                "sample": "voice_samples/Chinese/YunJhe.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Croatian",
+        "details": [
+            {
+                "voice": "hr-HR-GabrijelaNeural",
+                "gender": "Female",
+                "friendly": "Gabrijela",
+                "sample": "voice_samples/Croatian/Gabrijela.mp3"
+            },
+            {
+                "voice": "hr-HR-SreckoNeural",
+                "gender": "Male",
+                "friendly": "Srecko",
+                "sample": "voice_samples/Croatian/Srecko.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Czech",
+        "details": [
+            {
+                "voice": "cs-CZ-AntoninNeural",
+                "gender": "Male",
+                "friendly": "Antonin",
+                "sample": "voice_samples/Czech/Antonin.mp3"
+            },
+            {
+                "voice": "cs-CZ-VlastaNeural",
+                "gender": "Female",
+                "friendly": "Vlasta",
+                "sample": "voice_samples/Czech/Vlasta.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Danish",
+        "details": [
+            {
+                "voice": "da-DK-ChristelNeural",
+                "gender": "Female",
+                "friendly": "Christel",
+                "sample": "voice_samples/Danish/Christel.mp3"
+            },
+            {
+                "voice": "da-DK-JeppeNeural",
+                "gender": "Male",
+                "friendly": "Jeppe",
+                "sample": "voice_samples/Danish/Jeppe.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Dutch",
+        "details": [
+            {
+                "voice": "nl-BE-ArnaudNeural",
+                "gender": "Male",
+                "friendly": "Arnaud",
+                "sample": "voice_samples/Dutch/Arnaud.mp3"
+            },
+            {
+                "voice": "nl-BE-DenaNeural",
+                "gender": "Female",
+                "friendly": "Dena",
+                "sample": "voice_samples/Dutch/Dena.mp3"
+            },
+            {
+                "voice": "nl-NL-ColetteNeural",
+                "gender": "Female",
+                "friendly": "Colette",
+                "sample": "voice_samples/Dutch/Colette.mp3"
+            },
+            {
+                "voice": "nl-NL-FennaNeural",
+                "gender": "Female",
+                "friendly": "Fenna",
+                "sample": "voice_samples/Dutch/Fenna.mp3"
+            },
+            {
+                "voice": "nl-NL-MaartenNeural",
+                "gender": "Male",
+                "friendly": "Maarten",
+                "sample": "voice_samples/Dutch/Maarten.mp3"
+            }
+        ]
+    },
+    {
+        "language": "English",
+        "details": [
+            {
+                "voice": "en-AU-NatashaNeural",
+                "gender": "Female",
+                "friendly": "Natasha",
+                "sample": "voice_samples/English/Natasha.mp3"
+            },
+            {
+                "voice": "en-AU-WilliamNeural",
+                "gender": "Male",
+                "friendly": "William",
+                "sample": "voice_samples/English/William.mp3"
+            },
+            {
+                "voice": "en-CA-ClaraNeural",
+                "gender": "Female",
+                "friendly": "Clara",
+                "sample": "voice_samples/English/Clara.mp3"
+            },
+            {
+                "voice": "en-CA-LiamNeural",
+                "gender": "Male",
+                "friendly": "Liam",
+                "sample": "voice_samples/English/Liam.mp3"
+            },
+            {
+                "voice": "en-GB-LibbyNeural",
+                "gender": "Female",
+                "friendly": "Libby",
+                "sample": "voice_samples/English/Libby.mp3"
+            },
+            {
+                "voice": "en-GB-MaisieNeural",
+                "gender": "Female",
+                "friendly": "Maisie",
+                "sample": "voice_samples/English/Maisie.mp3"
+            },
+            {
+                "voice": "en-GB-RyanNeural",
+                "gender": "Male",
+                "friendly": "Ryan",
+                "sample": "voice_samples/English/Ryan.mp3"
+            },
+            {
+                "voice": "en-GB-SoniaNeural",
+                "gender": "Female",
+                "friendly": "Sonia",
+                "sample": "voice_samples/English/Sonia.mp3"
+            },
+            {
+                "voice": "en-GB-ThomasNeural",
+                "gender": "Male",
+                "friendly": "Thomas",
+                "sample": "voice_samples/English/Thomas.mp3"
+            },
+            {
+                "voice": "en-HK-SamNeural",
+                "gender": "Male",
+                "friendly": "Sam",
+                "sample": "voice_samples/English/Sam.mp3"
+            },
+            {
+                "voice": "en-HK-YanNeural",
+                "gender": "Female",
+                "friendly": "Yan",
+                "sample": "voice_samples/English/Yan.mp3"
+            },
+            {
+                "voice": "en-IE-ConnorNeural",
+                "gender": "Male",
+                "friendly": "Connor",
+                "sample": "voice_samples/English/Connor.mp3"
+            },
+            {
+                "voice": "en-IE-EmilyNeural",
+                "gender": "Female",
+                "friendly": "Emily",
+                "sample": "voice_samples/English/Emily.mp3"
+            },
+            {
+                "voice": "en-IN-NeerjaExpressiveNeural",
+                "gender": "Female",
+                "friendly": "NeerjaExpressive",
+                "sample": "voice_samples/English/NeerjaExpressive.mp3"
+            },
+            {
+                "voice": "en-IN-NeerjaNeural",
+                "gender": "Female",
+                "friendly": "Neerja",
+                "sample": "voice_samples/English/Neerja.mp3"
+            },
+            {
+                "voice": "en-IN-PrabhatNeural",
+                "gender": "Male",
+                "friendly": "Prabhat",
+                "sample": "voice_samples/English/Prabhat.mp3"
+            },
+            {
+                "voice": "en-KE-AsiliaNeural",
+                "gender": "Female",
+                "friendly": "Asilia",
+                "sample": "voice_samples/English/Asilia.mp3"
+            },
+            {
+                "voice": "en-KE-ChilembaNeural",
+                "gender": "Male",
+                "friendly": "Chilemba",
+                "sample": "voice_samples/English/Chilemba.mp3"
+            },
+            {
+                "voice": "en-NG-AbeoNeural",
+                "gender": "Male",
+                "friendly": "Abeo",
+                "sample": "voice_samples/English/Abeo.mp3"
+            },
+            {
+                "voice": "en-NG-EzinneNeural",
+                "gender": "Female",
+                "friendly": "Ezinne",
+                "sample": "voice_samples/English/Ezinne.mp3"
+            },
+            {
+                "voice": "en-NZ-MitchellNeural",
+                "gender": "Male",
+                "friendly": "Mitchell",
+                "sample": "voice_samples/English/Mitchell.mp3"
+            },
+            {
+                "voice": "en-NZ-MollyNeural",
+                "gender": "Female",
+                "friendly": "Molly",
+                "sample": "voice_samples/English/Molly.mp3"
+            },
+            {
+                "voice": "en-PH-JamesNeural",
+                "gender": "Male",
+                "friendly": "James",
+                "sample": "voice_samples/English/James.mp3"
+            },
+            {
+                "voice": "en-PH-RosaNeural",
+                "gender": "Female",
+                "friendly": "Rosa",
+                "sample": "voice_samples/English/Rosa.mp3"
+            },
+            {
+                "voice": "en-SG-LunaNeural",
+                "gender": "Female",
+                "friendly": "Luna",
+                "sample": "voice_samples/English/Luna.mp3"
+            },
+            {
+                "voice": "en-SG-WayneNeural",
+                "gender": "Male",
+                "friendly": "Wayne",
+                "sample": "voice_samples/English/Wayne.mp3"
+            },
+            {
+                "voice": "en-TZ-ElimuNeural",
+                "gender": "Male",
+                "friendly": "Elimu",
+                "sample": "voice_samples/English/Elimu.mp3"
+            },
+            {
+                "voice": "en-TZ-ImaniNeural",
+                "gender": "Female",
+                "friendly": "Imani",
+                "sample": "voice_samples/English/Imani.mp3"
+            },
+            {
+                "voice": "en-US-AnaNeural",
+                "gender": "Female",
+                "friendly": "Ana",
+                "sample": "voice_samples/English/Ana.mp3"
+            },
+            {
+                "voice": "en-US-AriaNeural",
+                "gender": "Female",
+                "friendly": "Aria",
+                "sample": "voice_samples/English/Aria.mp3"
+            },
+            {
+                "voice": "en-US-ChristopherNeural",
+                "gender": "Male",
+                "friendly": "Christopher",
+                "sample": "voice_samples/English/Christopher.mp3"
+            },
+            {
+                "voice": "en-US-EricNeural",
+                "gender": "Male",
+                "friendly": "Eric",
+                "sample": "voice_samples/English/Eric.mp3"
+            },
+            {
+                "voice": "en-US-GuyNeural",
+                "gender": "Male",
+                "friendly": "Guy",
+                "sample": "voice_samples/English/Guy.mp3"
+            },
+            {
+                "voice": "en-US-JennyNeural",
+                "gender": "Female",
+                "friendly": "Jenny",
+                "sample": "voice_samples/English/Jenny.mp3"
+            },
+            {
+                "voice": "en-US-MichelleNeural",
+                "gender": "Female",
+                "friendly": "Michelle",
+                "sample": "voice_samples/English/Michelle.mp3"
+            },
+            {
+                "voice": "en-US-RogerNeural",
+                "gender": "Male",
+                "friendly": "Roger",
+                "sample": "voice_samples/English/Roger.mp3"
+            },
+            {
+                "voice": "en-US-SteffanNeural",
+                "gender": "Male",
+                "friendly": "Steffan",
+                "sample": "voice_samples/English/Steffan.mp3"
+            },
+            {
+                "voice": "en-ZA-LeahNeural",
+                "gender": "Female",
+                "friendly": "Leah",
+                "sample": "voice_samples/English/Leah.mp3"
+            },
+            {
+                "voice": "en-ZA-LukeNeural",
+                "gender": "Male",
+                "friendly": "Luke",
+                "sample": "voice_samples/English/Luke.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Estonian",
+        "details": [
+            {
+                "voice": "et-EE-AnuNeural",
+                "gender": "Female",
+                "friendly": "Anu",
+                "sample": "voice_samples/Estonian/Anu.mp3"
+            },
+            {
+                "voice": "et-EE-KertNeural",
+                "gender": "Male",
+                "friendly": "Kert",
+                "sample": "voice_samples/Estonian/Kert.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Finnish",
+        "details": [
+            {
+                "voice": "fi-FI-HarriNeural",
+                "gender": "Male",
+                "friendly": "Harri",
+                "sample": "voice_samples/Finnish/Harri.mp3"
+            },
+            {
+                "voice": "fi-FI-NooraNeural",
+                "gender": "Female",
+                "friendly": "Noora",
+                "sample": "voice_samples/Finnish/Noora.mp3"
+            }
+        ]
+    },
+    {
+        "language": "French",
+        "details": [
+            {
+                "voice": "fr-BE-CharlineNeural",
+                "gender": "Female",
+                "friendly": "Charline",
+                "sample": "voice_samples/French/Charline.mp3"
+            },
+            {
+                "voice": "fr-BE-GerardNeural",
+                "gender": "Male",
+                "friendly": "Gerard",
+                "sample": "voice_samples/French/Gerard.mp3"
+            },
+            {
+                "voice": "fr-CA-AntoineNeural",
+                "gender": "Male",
+                "friendly": "Antoine",
+                "sample": "voice_samples/French/Antoine.mp3"
+            },
+            {
+                "voice": "fr-CA-JeanNeural",
+                "gender": "Male",
+                "friendly": "Jean",
+                "sample": "voice_samples/French/Jean.mp3"
+            },
+            {
+                "voice": "fr-CA-SylvieNeural",
+                "gender": "Female",
+                "friendly": "Sylvie",
+                "sample": "voice_samples/French/Sylvie.mp3"
+            },
+            {
+                "voice": "fr-CH-ArianeNeural",
+                "gender": "Female",
+                "friendly": "Ariane",
+                "sample": "voice_samples/French/Ariane.mp3"
+            },
+            {
+                "voice": "fr-CH-FabriceNeural",
+                "gender": "Male",
+                "friendly": "Fabrice",
+                "sample": "voice_samples/French/Fabrice.mp3"
+            },
+            {
+                "voice": "fr-FR-DeniseNeural",
+                "gender": "Female",
+                "friendly": "Denise",
+                "sample": "voice_samples/French/Denise.mp3"
+            },
+            {
+                "voice": "fr-FR-EloiseNeural",
+                "gender": "Female",
+                "friendly": "Eloise",
+                "sample": "voice_samples/French/Eloise.mp3"
+            },
+            {
+                "voice": "fr-FR-HenriNeural",
+                "gender": "Male",
+                "friendly": "Henri",
+                "sample": "voice_samples/French/Henri.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Galician",
+        "details": [
+            {
+                "voice": "gl-ES-RoiNeural",
+                "gender": "Male",
+                "friendly": "Roi",
+                "sample": "voice_samples/Galician/Roi.mp3"
+            },
+            {
+                "voice": "gl-ES-SabelaNeural",
+                "gender": "Female",
+                "friendly": "Sabela",
+                "sample": "voice_samples/Galician/Sabela.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Georgian",
+        "details": [
+            {
+                "voice": "ka-GE-EkaNeural",
+                "gender": "Female",
+                "friendly": "Eka",
+                "sample": "voice_samples/Georgian/Eka.mp3"
+            },
+            {
+                "voice": "ka-GE-GiorgiNeural",
+                "gender": "Male",
+                "friendly": "Giorgi",
+                "sample": "voice_samples/Georgian/Giorgi.mp3"
+            }
+        ]
+    },
+    {
+        "language": "German",
+        "details": [
+            {
+                "voice": "de-AT-IngridNeural",
+                "gender": "Female",
+                "friendly": "Ingrid",
+                "sample": "voice_samples/German/Ingrid.mp3"
+            },
+            {
+                "voice": "de-AT-JonasNeural",
+                "gender": "Male",
+                "friendly": "Jonas",
+                "sample": "voice_samples/German/Jonas.mp3"
+            },
+            {
+                "voice": "de-CH-JanNeural",
+                "gender": "Male",
+                "friendly": "Jan",
+                "sample": "voice_samples/German/Jan.mp3"
+            },
+            {
+                "voice": "de-CH-LeniNeural",
+                "gender": "Female",
+                "friendly": "Leni",
+                "sample": "voice_samples/German/Leni.mp3"
+            },
+            {
+                "voice": "de-DE-AmalaNeural",
+                "gender": "Female",
+                "friendly": "Amala",
+                "sample": "voice_samples/German/Amala.mp3"
+            },
+            {
+                "voice": "de-DE-ConradNeural",
+                "gender": "Male",
+                "friendly": "Conrad",
+                "sample": "voice_samples/German/Conrad.mp3"
+            },
+            {
+                "voice": "de-DE-KatjaNeural",
+                "gender": "Female",
+                "friendly": "Katja",
+                "sample": "voice_samples/German/Katja.mp3"
+            },
+            {
+                "voice": "de-DE-KillianNeural",
+                "gender": "Male",
+                "friendly": "Killian",
+                "sample": "voice_samples/German/Killian.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Greek",
+        "details": [
+            {
+                "voice": "el-GR-AthinaNeural",
+                "gender": "Female",
+                "friendly": "Athina",
+                "sample": "voice_samples/Greek/Athina.mp3"
+            },
+            {
+                "voice": "el-GR-NestorasNeural",
+                "gender": "Male",
+                "friendly": "Nestoras",
+                "sample": "voice_samples/Greek/Nestoras.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Gujarati",
+        "details": [
+            {
+                "voice": "gu-IN-DhwaniNeural",
+                "gender": "Female",
+                "friendly": "Dhwani",
+                "sample": "voice_samples/Gujarati/Dhwani.mp3"
+            },
+            {
+                "voice": "gu-IN-NiranjanNeural",
+                "gender": "Male",
+                "friendly": "Niranjan",
+                "sample": "voice_samples/Gujarati/Niranjan.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Hindi",
+        "details": [
+            {
+                "voice": "hi-IN-MadhurNeural",
+                "gender": "Male",
+                "friendly": "Madhur",
+                "sample": "voice_samples/Hindi/Madhur.mp3"
+            },
+            {
+                "voice": "hi-IN-SwaraNeural",
+                "gender": "Female",
+                "friendly": "Swara",
+                "sample": "voice_samples/Hindi/Swara.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Hungarian",
+        "details": [
+            {
+                "voice": "hu-HU-NoemiNeural",
+                "gender": "Female",
+                "friendly": "Noemi",
+                "sample": "voice_samples/Hungarian/Noemi.mp3"
+            },
+            {
+                "voice": "hu-HU-TamasNeural",
+                "gender": "Male",
+                "friendly": "Tamas",
+                "sample": "voice_samples/Hungarian/Tamas.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Icelandic",
+        "details": [
+            {
+                "voice": "is-IS-GudrunNeural",
+                "gender": "Female",
+                "friendly": "Gudrun",
+                "sample": "voice_samples/Icelandic/Gudrun.mp3"
+            },
+            {
+                "voice": "is-IS-GunnarNeural",
+                "gender": "Male",
+                "friendly": "Gunnar",
+                "sample": "voice_samples/Icelandic/Gunnar.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Indonesian",
+        "details": [
+            {
+                "voice": "id-ID-ArdiNeural",
+                "gender": "Male",
+                "friendly": "Ardi",
+                "sample": "voice_samples/Indonesian/Ardi.mp3"
+            },
+            {
+                "voice": "id-ID-GadisNeural",
+                "gender": "Female",
+                "friendly": "Gadis",
+                "sample": "voice_samples/Indonesian/Gadis.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Irish",
+        "details": [
+            {
+                "voice": "ga-IE-ColmNeural",
+                "gender": "Male",
+                "friendly": "Colm",
+                "sample": "voice_samples/Irish/Colm.mp3"
+            },
+            {
+                "voice": "ga-IE-OrlaNeural",
+                "gender": "Female",
+                "friendly": "Orla",
+                "sample": "voice_samples/Irish/Orla.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Italian",
+        "details": [
+            {
+                "voice": "it-IT-DiegoNeural",
+                "gender": "Male",
+                "friendly": "Diego",
+                "sample": "voice_samples/Italian/Diego.mp3"
+            },
+            {
+                "voice": "it-IT-ElsaNeural",
+                "gender": "Female",
+                "friendly": "Elsa",
+                "sample": "voice_samples/Italian/Elsa.mp3"
+            },
+            {
+                "voice": "it-IT-IsabellaNeural",
+                "gender": "Female",
+                "friendly": "Isabella",
+                "sample": "voice_samples/Italian/Isabella.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Japanese",
+        "details": [
+            {
+                "voice": "ja-JP-KeitaNeural",
+                "gender": "Male",
+                "friendly": "Keita",
+                "sample": "voice_samples/Japanese/Keita.mp3"
+            },
+            {
+                "voice": "ja-JP-NanamiNeural",
+                "gender": "Female",
+                "friendly": "Nanami",
+                "sample": "voice_samples/Japanese/Nanami.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Kannada",
+        "details": [
+            {
+                "voice": "kn-IN-GaganNeural",
+                "gender": "Male",
+                "friendly": "Gagan",
+                "sample": "voice_samples/Kannada/Gagan.mp3"
+            },
+            {
+                "voice": "kn-IN-SapnaNeural",
+                "gender": "Female",
+                "friendly": "Sapna",
+                "sample": "voice_samples/Kannada/Sapna.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Kazakh",
+        "details": [
+            {
+                "voice": "kk-KZ-AigulNeural",
+                "gender": "Female",
+                "friendly": "Aigul",
+                "sample": "voice_samples/Kazakh/Aigul.mp3"
+            },
+            {
+                "voice": "kk-KZ-DauletNeural",
+                "gender": "Male",
+                "friendly": "Daulet",
+                "sample": "voice_samples/Kazakh/Daulet.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Khmer",
+        "details": [
+            {
+                "voice": "km-KH-PisethNeural",
+                "gender": "Male",
+                "friendly": "Piseth",
+                "sample": "voice_samples/Khmer/Piseth.mp3"
+            },
+            {
+                "voice": "km-KH-SreymomNeural",
+                "gender": "Female",
+                "friendly": "Sreymom",
+                "sample": "voice_samples/Khmer/Sreymom.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Korean",
+        "details": [
+            {
+                "voice": "ko-KR-InJoonNeural",
+                "gender": "Male",
+                "friendly": "InJoon",
+                "sample": "voice_samples/Korean/InJoon.mp3"
+            },
+            {
+                "voice": "ko-KR-SunHiNeural",
+                "gender": "Female",
+                "friendly": "SunHi",
+                "sample": "voice_samples/Korean/SunHi.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Lao",
+        "details": [
+            {
+                "voice": "lo-LA-ChanthavongNeural",
+                "gender": "Male",
+                "friendly": "Chanthavong",
+                "sample": "voice_samples/Lao/Chanthavong.mp3"
+            },
+            {
+                "voice": "lo-LA-KeomanyNeural",
+                "gender": "Female",
+                "friendly": "Keomany",
+                "sample": "voice_samples/Lao/Keomany.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Latvian",
+        "details": [
+            {
+                "voice": "lv-LV-EveritaNeural",
+                "gender": "Female",
+                "friendly": "Everita",
+                "sample": "voice_samples/Latvian/Everita.mp3"
+            },
+            {
+                "voice": "lv-LV-NilsNeural",
+                "gender": "Male",
+                "friendly": "Nils",
+                "sample": "voice_samples/Latvian/Nils.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Lithuanian",
+        "details": [
+            {
+                "voice": "lt-LT-LeonasNeural",
+                "gender": "Male",
+                "friendly": "Leonas",
+                "sample": "voice_samples/Lithuanian/Leonas.mp3"
+            },
+            {
+                "voice": "lt-LT-OnaNeural",
+                "gender": "Female",
+                "friendly": "Ona",
+                "sample": "voice_samples/Lithuanian/Ona.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Macedonian",
+        "details": [
+            {
+                "voice": "mk-MK-AleksandarNeural",
+                "gender": "Male",
+                "friendly": "Aleksandar",
+                "sample": "voice_samples/Macedonian/Aleksandar.mp3"
+            },
+            {
+                "voice": "mk-MK-MarijaNeural",
+                "gender": "Female",
+                "friendly": "Marija",
+                "sample": "voice_samples/Macedonian/Marija.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Malay",
+        "details": [
+            {
+                "voice": "ms-MY-OsmanNeural",
+                "gender": "Male",
+                "friendly": "Osman",
+                "sample": "voice_samples/Malay/Osman.mp3"
+            },
+            {
+                "voice": "ms-MY-YasminNeural",
+                "gender": "Female",
+                "friendly": "Yasmin",
+                "sample": "voice_samples/Malay/Yasmin.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Malayalam",
+        "details": [
+            {
+                "voice": "ml-IN-MidhunNeural",
+                "gender": "Male",
+                "friendly": "Midhun",
+                "sample": "voice_samples/Malayalam/Midhun.mp3"
+            },
+            {
+                "voice": "ml-IN-SobhanaNeural",
+                "gender": "Female",
+                "friendly": "Sobhana",
+                "sample": "voice_samples/Malayalam/Sobhana.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Maltese",
+        "details": [
+            {
+                "voice": "mt-MT-GraceNeural",
+                "gender": "Female",
+                "friendly": "Grace",
+                "sample": "voice_samples/Maltese/Grace.mp3"
+            },
+            {
+                "voice": "mt-MT-JosephNeural",
+                "gender": "Male",
+                "friendly": "Joseph",
+                "sample": "voice_samples/Maltese/Joseph.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Marathi",
+        "details": [
+            {
+                "voice": "mr-IN-AarohiNeural",
+                "gender": "Female",
+                "friendly": "Aarohi",
+                "sample": "voice_samples/Marathi/Aarohi.mp3"
+            },
+            {
+                "voice": "mr-IN-ManoharNeural",
+                "gender": "Male",
+                "friendly": "Manohar",
+                "sample": "voice_samples/Marathi/Manohar.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Mongolian",
+        "details": [
+            {
+                "voice": "mn-MN-BataaNeural",
+                "gender": "Male",
+                "friendly": "Bataa",
+                "sample": "voice_samples/Mongolian/Bataa.mp3"
+            },
+            {
+                "voice": "mn-MN-YesuiNeural",
+                "gender": "Female",
+                "friendly": "Yesui",
+                "sample": "voice_samples/Mongolian/Yesui.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Nepali",
+        "details": [
+            {
+                "voice": "ne-NP-HemkalaNeural",
+                "gender": "Female",
+                "friendly": "Hemkala",
+                "sample": "voice_samples/Nepali/Hemkala.mp3"
+            },
+            {
+                "voice": "ne-NP-SagarNeural",
+                "gender": "Male",
+                "friendly": "Sagar",
+                "sample": "voice_samples/Nepali/Sagar.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Pashto",
+        "details": [
+            {
+                "voice": "ps-AF-GulNawazNeural",
+                "gender": "Male",
+                "friendly": "GulNawaz",
+                "sample": "voice_samples/Pashto/GulNawaz.mp3"
+            },
+            {
+                "voice": "ps-AF-LatifaNeural",
+                "gender": "Female",
+                "friendly": "Latifa",
+                "sample": "voice_samples/Pashto/Latifa.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Persian",
+        "details": [
+            {
+                "voice": "fa-IR-DilaraNeural",
+                "gender": "Female",
+                "friendly": "Dilara",
+                "sample": "voice_samples/Persian/Dilara.mp3"
+            },
+            {
+                "voice": "fa-IR-FaridNeural",
+                "gender": "Male",
+                "friendly": "Farid",
+                "sample": "voice_samples/Persian/Farid.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Polish",
+        "details": [
+            {
+                "voice": "pl-PL-MarekNeural",
+                "gender": "Male",
+                "friendly": "Marek",
+                "sample": "voice_samples/Polish/Marek.mp3"
+            },
+            {
+                "voice": "pl-PL-ZofiaNeural",
+                "gender": "Female",
+                "friendly": "Zofia",
+                "sample": "voice_samples/Polish/Zofia.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Portuguese",
+        "details": [
+            {
+                "voice": "pt-BR-AntonioNeural",
+                "gender": "Male",
+                "friendly": "Antonio",
+                "sample": "voice_samples/Portuguese/Antonio.mp3"
+            },
+            {
+                "voice": "pt-BR-FranciscaNeural",
+                "gender": "Female",
+                "friendly": "Francisca",
+                "sample": "voice_samples/Portuguese/Francisca.mp3"
+            },
+            {
+                "voice": "pt-PT-DuarteNeural",
+                "gender": "Male",
+                "friendly": "Duarte",
+                "sample": "voice_samples/Portuguese/Duarte.mp3"
+            },
+            {
+                "voice": "pt-PT-RaquelNeural",
+                "gender": "Female",
+                "friendly": "Raquel",
+                "sample": "voice_samples/Portuguese/Raquel.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Romanian",
+        "details": [
+            {
+                "voice": "ro-RO-AlinaNeural",
+                "gender": "Female",
+                "friendly": "Alina",
+                "sample": "voice_samples/Romanian/Alina.mp3"
+            },
+            {
+                "voice": "ro-RO-EmilNeural",
+                "gender": "Male",
+                "friendly": "Emil",
+                "sample": "voice_samples/Romanian/Emil.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Russian",
+        "details": [
+            {
+                "voice": "ru-RU-DmitryNeural",
+                "gender": "Male",
+                "friendly": "Dmitry",
+                "sample": "voice_samples/Russian/Dmitry.mp3"
+            },
+            {
+                "voice": "ru-RU-SvetlanaNeural",
+                "gender": "Female",
+                "friendly": "Svetlana",
+                "sample": "voice_samples/Russian/Svetlana.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Serbian",
+        "details": [
+            {
+                "voice": "sr-RS-NicholasNeural",
+                "gender": "Male",
+                "friendly": "Nicholas",
+                "sample": "voice_samples/Serbian/Nicholas.mp3"
+            },
+            {
+                "voice": "sr-RS-SophieNeural",
+                "gender": "Female",
+                "friendly": "Sophie",
+                "sample": "voice_samples/Serbian/Sophie.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Sinhala",
+        "details": [
+            {
+                "voice": "si-LK-SameeraNeural",
+                "gender": "Male",
+                "friendly": "Sameera",
+                "sample": "voice_samples/Sinhala/Sameera.mp3"
+            },
+            {
+                "voice": "si-LK-ThiliniNeural",
+                "gender": "Female",
+                "friendly": "Thilini",
+                "sample": "voice_samples/Sinhala/Thilini.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Slovak",
+        "details": [
+            {
+                "voice": "sk-SK-LukasNeural",
+                "gender": "Male",
+                "friendly": "Lukas",
+                "sample": "voice_samples/Slovak/Lukas.mp3"
+            },
+            {
+                "voice": "sk-SK-ViktoriaNeural",
+                "gender": "Female",
+                "friendly": "Viktoria",
+                "sample": "voice_samples/Slovak/Viktoria.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Slovenian",
+        "details": [
+            {
+                "voice": "sl-SI-PetraNeural",
+                "gender": "Female",
+                "friendly": "Petra",
+                "sample": "voice_samples/Slovenian/Petra.mp3"
+            },
+            {
+                "voice": "sl-SI-RokNeural",
+                "gender": "Male",
+                "friendly": "Rok",
+                "sample": "voice_samples/Slovenian/Rok.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Somali",
+        "details": [
+            {
+                "voice": "so-SO-MuuseNeural",
+                "gender": "Male",
+                "friendly": "Muuse",
+                "sample": "voice_samples/Somali/Muuse.mp3"
+            },
+            {
+                "voice": "so-SO-UbaxNeural",
+                "gender": "Female",
+                "friendly": "Ubax",
+                "sample": "voice_samples/Somali/Ubax.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Spanish",
+        "details": [
+            {
+                "voice": "es-AR-ElenaNeural",
+                "gender": "Female",
+                "friendly": "Elena",
+                "sample": "voice_samples/Spanish/Elena.mp3"
+            },
+            {
+                "voice": "es-AR-TomasNeural",
+                "gender": "Male",
+                "friendly": "Tomas",
+                "sample": "voice_samples/Spanish/Tomas.mp3"
+            },
+            {
+                "voice": "es-BO-MarceloNeural",
+                "gender": "Male",
+                "friendly": "Marcelo",
+                "sample": "voice_samples/Spanish/Marcelo.mp3"
+            },
+            {
+                "voice": "es-BO-SofiaNeural",
+                "gender": "Female",
+                "friendly": "Sofia",
+                "sample": "voice_samples/Spanish/Sofia.mp3"
+            },
+            {
+                "voice": "es-CL-CatalinaNeural",
+                "gender": "Female",
+                "friendly": "Catalina",
+                "sample": "voice_samples/Spanish/Catalina.mp3"
+            },
+            {
+                "voice": "es-CL-LorenzoNeural",
+                "gender": "Male",
+                "friendly": "Lorenzo",
+                "sample": "voice_samples/Spanish/Lorenzo.mp3"
+            },
+            {
+                "voice": "es-CO-GonzaloNeural",
+                "gender": "Male",
+                "friendly": "Gonzalo",
+                "sample": "voice_samples/Spanish/Gonzalo.mp3"
+            },
+            {
+                "voice": "es-CO-SalomeNeural",
+                "gender": "Female",
+                "friendly": "Salome",
+                "sample": "voice_samples/Spanish/Salome.mp3"
+            },
+            {
+                "voice": "es-CR-JuanNeural",
+                "gender": "Male",
+                "friendly": "Juan",
+                "sample": "voice_samples/Spanish/Juan.mp3"
+            },
+            {
+                "voice": "es-CR-MariaNeural",
+                "gender": "Female",
+                "friendly": "Maria",
+                "sample": "voice_samples/Spanish/Maria.mp3"
+            },
+            {
+                "voice": "es-CU-BelkysNeural",
+                "gender": "Female",
+                "friendly": "Belkys",
+                "sample": "voice_samples/Spanish/Belkys.mp3"
+            },
+            {
+                "voice": "es-CU-ManuelNeural",
+                "gender": "Male",
+                "friendly": "Manuel",
+                "sample": "voice_samples/Spanish/Manuel.mp3"
+            },
+            {
+                "voice": "es-DO-EmilioNeural",
+                "gender": "Male",
+                "friendly": "Emilio",
+                "sample": "voice_samples/Spanish/Emilio.mp3"
+            },
+            {
+                "voice": "es-DO-RamonaNeural",
+                "gender": "Female",
+                "friendly": "Ramona",
+                "sample": "voice_samples/Spanish/Ramona.mp3"
+            },
+            {
+                "voice": "es-EC-AndreaNeural",
+                "gender": "Female",
+                "friendly": "Andrea",
+                "sample": "voice_samples/Spanish/Andrea.mp3"
+            },
+            {
+                "voice": "es-EC-LuisNeural",
+                "gender": "Male",
+                "friendly": "Luis",
+                "sample": "voice_samples/Spanish/Luis.mp3"
+            },
+            {
+                "voice": "es-ES-AlvaroNeural",
+                "gender": "Male",
+                "friendly": "Alvaro",
+                "sample": "voice_samples/Spanish/Alvaro.mp3"
+            },
+            {
+                "voice": "es-ES-ElviraNeural",
+                "gender": "Female",
+                "friendly": "Elvira",
+                "sample": "voice_samples/Spanish/Elvira.mp3"
+            },
+            {
+                "voice": "es-GQ-JavierNeural",
+                "gender": "Male",
+                "friendly": "Javier",
+                "sample": "voice_samples/Spanish/Javier.mp3"
+            },
+            {
+                "voice": "es-GQ-TeresaNeural",
+                "gender": "Female",
+                "friendly": "Teresa",
+                "sample": "voice_samples/Spanish/Teresa.mp3"
+            },
+            {
+                "voice": "es-GT-AndresNeural",
+                "gender": "Male",
+                "friendly": "Andres",
+                "sample": "voice_samples/Spanish/Andres.mp3"
+            },
+            {
+                "voice": "es-GT-MartaNeural",
+                "gender": "Female",
+                "friendly": "Marta",
+                "sample": "voice_samples/Spanish/Marta.mp3"
+            },
+            {
+                "voice": "es-HN-CarlosNeural",
+                "gender": "Male",
+                "friendly": "Carlos",
+                "sample": "voice_samples/Spanish/Carlos.mp3"
+            },
+            {
+                "voice": "es-HN-KarlaNeural",
+                "gender": "Female",
+                "friendly": "Karla",
+                "sample": "voice_samples/Spanish/Karla.mp3"
+            },
+            {
+                "voice": "es-MX-DaliaNeural",
+                "gender": "Female",
+                "friendly": "Dalia",
+                "sample": "voice_samples/Spanish/Dalia.mp3"
+            },
+            {
+                "voice": "es-MX-JorgeNeural",
+                "gender": "Male",
+                "friendly": "Jorge",
+                "sample": "voice_samples/Spanish/Jorge.mp3"
+            },
+            {
+                "voice": "es-NI-FedericoNeural",
+                "gender": "Male",
+                "friendly": "Federico",
+                "sample": "voice_samples/Spanish/Federico.mp3"
+            },
+            {
+                "voice": "es-NI-YolandaNeural",
+                "gender": "Female",
+                "friendly": "Yolanda",
+                "sample": "voice_samples/Spanish/Yolanda.mp3"
+            },
+            {
+                "voice": "es-PA-MargaritaNeural",
+                "gender": "Female",
+                "friendly": "Margarita",
+                "sample": "voice_samples/Spanish/Margarita.mp3"
+            },
+            {
+                "voice": "es-PA-RobertoNeural",
+                "gender": "Male",
+                "friendly": "Roberto",
+                "sample": "voice_samples/Spanish/Roberto.mp3"
+            },
+            {
+                "voice": "es-PE-AlexNeural",
+                "gender": "Male",
+                "friendly": "Alex",
+                "sample": "voice_samples/Spanish/Alex.mp3"
+            },
+            {
+                "voice": "es-PE-CamilaNeural",
+                "gender": "Female",
+                "friendly": "Camila",
+                "sample": "voice_samples/Spanish/Camila.mp3"
+            },
+            {
+                "voice": "es-PR-KarinaNeural",
+                "gender": "Female",
+                "friendly": "Karina",
+                "sample": "voice_samples/Spanish/Karina.mp3"
+            },
+            {
+                "voice": "es-PR-VictorNeural",
+                "gender": "Male",
+                "friendly": "Victor",
+                "sample": "voice_samples/Spanish/Victor.mp3"
+            },
+            {
+                "voice": "es-PY-MarioNeural",
+                "gender": "Male",
+                "friendly": "Mario",
+                "sample": "voice_samples/Spanish/Mario.mp3"
+            },
+            {
+                "voice": "es-PY-TaniaNeural",
+                "gender": "Female",
+                "friendly": "Tania",
+                "sample": "voice_samples/Spanish/Tania.mp3"
+            },
+            {
+                "voice": "es-SV-LorenaNeural",
+                "gender": "Female",
+                "friendly": "Lorena",
+                "sample": "voice_samples/Spanish/Lorena.mp3"
+            },
+            {
+                "voice": "es-SV-RodrigoNeural",
+                "gender": "Male",
+                "friendly": "Rodrigo",
+                "sample": "voice_samples/Spanish/Rodrigo.mp3"
+            },
+            {
+                "voice": "es-US-AlonsoNeural",
+                "gender": "Male",
+                "friendly": "Alonso",
+                "sample": "voice_samples/Spanish/Alonso.mp3"
+            },
+            {
+                "voice": "es-US-PalomaNeural",
+                "gender": "Female",
+                "friendly": "Paloma",
+                "sample": "voice_samples/Spanish/Paloma.mp3"
+            },
+            {
+                "voice": "es-UY-MateoNeural",
+                "gender": "Male",
+                "friendly": "Mateo",
+                "sample": "voice_samples/Spanish/Mateo.mp3"
+            },
+            {
+                "voice": "es-UY-ValentinaNeural",
+                "gender": "Female",
+                "friendly": "Valentina",
+                "sample": "voice_samples/Spanish/Valentina.mp3"
+            },
+            {
+                "voice": "es-VE-PaolaNeural",
+                "gender": "Female",
+                "friendly": "Paola",
+                "sample": "voice_samples/Spanish/Paola.mp3"
+            },
+            {
+                "voice": "es-VE-SebastianNeural",
+                "gender": "Male",
+                "friendly": "Sebastian",
+                "sample": "voice_samples/Spanish/Sebastian.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Sundanese",
+        "details": [
+            {
+                "voice": "su-ID-JajangNeural",
+                "gender": "Male",
+                "friendly": "Jajang",
+                "sample": "voice_samples/Sundanese/Jajang.mp3"
+            },
+            {
+                "voice": "su-ID-TutiNeural",
+                "gender": "Female",
+                "friendly": "Tuti",
+                "sample": "voice_samples/Sundanese/Tuti.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Swahili",
+        "details": [
+            {
+                "voice": "sw-KE-RafikiNeural",
+                "gender": "Male",
+                "friendly": "Rafiki",
+                "sample": "voice_samples/Swahili/Rafiki.mp3"
+            },
+            {
+                "voice": "sw-KE-ZuriNeural",
+                "gender": "Female",
+                "friendly": "Zuri",
+                "sample": "voice_samples/Swahili/Zuri.mp3"
+            },
+            {
+                "voice": "sw-TZ-DaudiNeural",
+                "gender": "Male",
+                "friendly": "Daudi",
+                "sample": "voice_samples/Swahili/Daudi.mp3"
+            },
+            {
+                "voice": "sw-TZ-RehemaNeural",
+                "gender": "Female",
+                "friendly": "Rehema",
+                "sample": "voice_samples/Swahili/Rehema.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Swedish",
+        "details": [
+            {
+                "voice": "sv-SE-MattiasNeural",
+                "gender": "Male",
+                "friendly": "Mattias",
+                "sample": "voice_samples/Swedish/Mattias.mp3"
+            },
+            {
+                "voice": "sv-SE-SofieNeural",
+                "gender": "Female",
+                "friendly": "Sofie",
+                "sample": "voice_samples/Swedish/Sofie.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Tamil",
+        "details": [
+            {
+                "voice": "ta-IN-PallaviNeural",
+                "gender": "Female",
+                "friendly": "Pallavi",
+                "sample": "voice_samples/Tamil/Pallavi.mp3"
+            },
+            {
+                "voice": "ta-IN-ValluvarNeural",
+                "gender": "Male",
+                "friendly": "Valluvar",
+                "sample": "voice_samples/Tamil/Valluvar.mp3"
+            },
+            {
+                "voice": "ta-LK-KumarNeural",
+                "gender": "Male",
+                "friendly": "Kumar",
+                "sample": "voice_samples/Tamil/Kumar.mp3"
+            },
+            {
+                "voice": "ta-LK-SaranyaNeural",
+                "gender": "Female",
+                "friendly": "Saranya",
+                "sample": "voice_samples/Tamil/Saranya.mp3"
+            },
+            {
+                "voice": "ta-MY-KaniNeural",
+                "gender": "Female",
+                "friendly": "Kani",
+                "sample": "voice_samples/Tamil/Kani.mp3"
+            },
+            {
+                "voice": "ta-MY-SuryaNeural",
+                "gender": "Male",
+                "friendly": "Surya",
+                "sample": "voice_samples/Tamil/Surya.mp3"
+            },
+            {
+                "voice": "ta-SG-AnbuNeural",
+                "gender": "Male",
+                "friendly": "Anbu",
+                "sample": "voice_samples/Tamil/Anbu.mp3"
+            },
+            {
+                "voice": "ta-SG-VenbaNeural",
+                "gender": "Female",
+                "friendly": "Venba",
+                "sample": "voice_samples/Tamil/Venba.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Telugu",
+        "details": [
+            {
+                "voice": "te-IN-MohanNeural",
+                "gender": "Male",
+                "friendly": "Mohan",
+                "sample": "voice_samples/Telugu/Mohan.mp3"
+            },
+            {
+                "voice": "te-IN-ShrutiNeural",
+                "gender": "Female",
+                "friendly": "Shruti",
+                "sample": "voice_samples/Telugu/Shruti.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Thai",
+        "details": [
+            {
+                "voice": "th-TH-NiwatNeural",
+                "gender": "Male",
+                "friendly": "Niwat",
+                "sample": "voice_samples/Thai/Niwat.mp3"
+            },
+            {
+                "voice": "th-TH-PremwadeeNeural",
+                "gender": "Female",
+                "friendly": "Premwadee",
+                "sample": "voice_samples/Thai/Premwadee.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Turkish",
+        "details": [
+            {
+                "voice": "tr-TR-AhmetNeural",
+                "gender": "Male",
+                "friendly": "Ahmet",
+                "sample": "voice_samples/Turkish/Ahmet.mp3"
+            },
+            {
+                "voice": "tr-TR-EmelNeural",
+                "gender": "Female",
+                "friendly": "Emel",
+                "sample": "voice_samples/Turkish/Emel.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Ukrainian",
+        "details": [
+            {
+                "voice": "uk-UA-OstapNeural",
+                "gender": "Male",
+                "friendly": "Ostap",
+                "sample": "voice_samples/Ukrainian/Ostap.mp3"
+            },
+            {
+                "voice": "uk-UA-PolinaNeural",
+                "gender": "Female",
+                "friendly": "Polina",
+                "sample": "voice_samples/Ukrainian/Polina.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Urdu",
+        "details": [
+            {
+                "voice": "ur-IN-GulNeural",
+                "gender": "Female",
+                "friendly": "Gul",
+                "sample": "voice_samples/Urdu/Gul.mp3"
+            },
+            {
+                "voice": "ur-IN-SalmanNeural",
+                "gender": "Male",
+                "friendly": "Salman",
+                "sample": "voice_samples/Urdu/Salman.mp3"
+            },
+            {
+                "voice": "ur-PK-AsadNeural",
+                "gender": "Male",
+                "friendly": "Asad",
+                "sample": "voice_samples/Urdu/Asad.mp3"
+            },
+            {
+                "voice": "ur-PK-UzmaNeural",
+                "gender": "Female",
+                "friendly": "Uzma",
+                "sample": "voice_samples/Urdu/Uzma.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Uzbek",
+        "details": [
+            {
+                "voice": "uz-UZ-MadinaNeural",
+                "gender": "Female",
+                "friendly": "Madina",
+                "sample": "voice_samples/Uzbek/Madina.mp3"
+            },
+            {
+                "voice": "uz-UZ-SardorNeural",
+                "gender": "Male",
+                "friendly": "Sardor",
+                "sample": "voice_samples/Uzbek/Sardor.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Vietnamese",
+        "details": [
+            {
+                "voice": "vi-VN-HoaiMyNeural",
+                "gender": "Female",
+                "friendly": "HoaiMy",
+                "sample": "voice_samples/Vietnamese/HoaiMy.mp3"
+            },
+            {
+                "voice": "vi-VN-NamMinhNeural",
+                "gender": "Male",
+                "friendly": "NamMinh",
+                "sample": "voice_samples/Vietnamese/NamMinh.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Welsh",
+        "details": [
+            {
+                "voice": "cy-GB-AledNeural",
+                "gender": "Male",
+                "friendly": "Aled",
+                "sample": "voice_samples/Welsh/Aled.mp3"
+            },
+            {
+                "voice": "cy-GB-NiaNeural",
+                "gender": "Female",
+                "friendly": "Nia",
+                "sample": "voice_samples/Welsh/Nia.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Zulu",
+        "details": [
+            {
+                "voice": "zu-ZA-ThandoNeural",
+                "gender": "Female",
+                "friendly": "Thando",
+                "sample": "voice_samples/Zulu/Thando.mp3"
+            },
+            {
+                "voice": "zu-ZA-ThembaNeural",
+                "gender": "Male",
+                "friendly": "Themba",
+                "sample": "voice_samples/Zulu/Themba.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Filipino",
+        "details": [
+            {
+                "voice": "fil-PH-AngeloNeural",
+                "gender": "Male",
+                "friendly": "Angelo",
+                "sample": "voice_samples/Filipino/Angelo.mp3"
+            },
+            {
+                "voice": "fil-PH-BlessicaNeural",
+                "gender": "Female",
+                "friendly": "Blessica",
+                "sample": "voice_samples/Filipino/Blessica.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Hebrew",
+        "details": [
+            {
+                "voice": "he-IL-AvriNeural",
+                "gender": "Male",
+                "friendly": "Avri",
+                "sample": "voice_samples/Hebrew/Avri.mp3"
+            },
+            {
+                "voice": "he-IL-HilaNeural",
+                "gender": "Female",
+                "friendly": "Hila",
+                "sample": "voice_samples/Hebrew/Hila.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Javanese",
+        "details": [
+            {
+                "voice": "jv-ID-DimasNeural",
+                "gender": "Male",
+                "friendly": "Dimas",
+                "sample": "voice_samples/Javanese/Dimas.mp3"
+            },
+            {
+                "voice": "jv-ID-SitiNeural",
+                "gender": "Female",
+                "friendly": "Siti",
+                "sample": "voice_samples/Javanese/Siti.mp3"
+            }
+        ]
+    },
+    {
+        "language": "Norwegian",
+        "details": [
+            {
+                "voice": "nb-NO-FinnNeural",
+                "gender": "Male",
+                "friendly": "Finn",
+                "sample": "voice_samples/Norwegian/Finn.mp3"
+            },
+            {
+                "voice": "nb-NO-PernilleNeural",
+                "gender": "Female",
+                "friendly": "Pernille",
+                "sample": "voice_samples/Norwegian/Pernille.mp3"
+            }
+        ]
+    }
+]
