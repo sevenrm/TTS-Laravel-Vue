@@ -113,8 +113,6 @@ Note: Please always look in the components, this table does not show everything.
 
 From here, you are on your own. Develop new pages, models, components, use professional IDE for development to improve your efficiency.
 
-<p><img width="100%" src="https://user-images.githubusercontent.com/5760249/210167222-e04312ac-46ef-4dcd-a4d5-00c3a207bf32.gif"/></p>
-
 ### ➡️ CORS
 
 Please make sure you have APP_URL, SANCTUM_STATEFUL_DOMAINS and SESSION_DOMAIN set correctly in [.env](https://github.com/gdarko/laravel-vue-starter/blob/master/.env.example) file as follows:
