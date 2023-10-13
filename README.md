@@ -144,7 +144,7 @@ Pull requests are welcome, feel free to contribute to this project.
 ## ⚡️ License
 
 ```
-Copyright (C) 2022 Darko Gjorgjijoski (https://darkog.com)
+Copyright (C) 2023 SevenRM
 
 This file is part of Laravel Vue Starter
 
