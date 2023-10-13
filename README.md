@@ -2,11 +2,9 @@
 <a href="https://laravel.com" target="_blank"><img src="https://user-images.githubusercontent.com/5760249/132945127-a7d3a4bb-1ffc-4658-8096-c9cfc2f5c3dd.png" width="400"></a>
 </p>
 
-# Laravel Vue Starter
+# TTS Laravel Vue Project
 
-The project was created to save myself time for redoing the same things all over again when starting a new Laravel/Vue project.
-
-The main goal of this project is to reduce code and make everything simpler for bootstrapping new projects.
+This project is built to implement the text to speech function.
 
 The project is built with the following components:
 
