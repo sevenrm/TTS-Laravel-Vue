@@ -17,14 +17,14 @@
 import VoiceCard from "../components/VoiceCard.vue";
 export default {
     name: "voicePanel",
-    components: {
-        VoiceCard,
-    },
     props: {
         characters: {
-            type: Array,
-            default: [],
+            type: Object,
+            default: {},
         },
+    },
+    components: {
+        VoiceCard,
     },
     setup(props) {
         // console.log(props.characters);

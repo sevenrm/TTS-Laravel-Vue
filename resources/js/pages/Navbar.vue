@@ -9,17 +9,19 @@
             className="flex items-center lg:w-[35vw] md:w-[40vw] sm:w-[50vw] w-[60vw]"
         >
             <a
-                className="h-[1.5rem] w-[4.5rem] text-[#202223] mr-[4vw] text-[16px] leading-5 not-italic font-medium font-['SF Pro Text']"
+                className="h-[1.5em] w-[4.5em] text-[#202223] lg:mr-[3em] lg:text-[16px] md:text-[14px] text-[10px] leading-5 not-italic font-medium font-['SF Pro Text']"
+                href="#"
             >
                 About
             </a>
             <a
-                className="h-[1.5rem] w-[4.5rem] text-[#202223] mr-[4vw] text-[16px] leading-5 not-italic font-medium font-['SF Pro Text'] "
+                className="h-[1.5em] w-[4.5em] text-[#202223] lg:mr-[3em] lg:text-[16px] md:text-[14px] text-[10px] leading-5 not-italic font-medium font-['SF Pro Text'] "
+                href="#"
             >
                 Contact
             </a>
             <button
-                className="h-[3rem] w-[6rem] bg-[#0C8CE9] my-[0.5rem] rounded-lg text-[14px] text-[#ffffff] leading-5 not-italic font-medium font-['SF Pro Text']"
+                className="h-[3em] w-[8em] bg-[#0C8CE9] my-[0.5rem] rounded-lg lg:text-[14px] md:text-[12px] text-[8px] text-[#ffffff] leading-5 not-italic font-medium font-['SF Pro Text'] text-center"
             >
                 Download
             </button>

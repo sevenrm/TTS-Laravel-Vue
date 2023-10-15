@@ -1,6 +1,6 @@
 <template>
     <div
-        className="flex justify-center flex-col m-[2vh] bg-[#F6F6F6] w-[40vw] h-[25vh] rounded-[14px] px-[2vw]"
+        className="flex flex-col m-[2vh] bg-[#F6F6F6] w-[40vw] h-[30vh] rounded-[14px] px-[2vw] py-[5vh]"
     >
         <template v-if="magicId === '1'">
             <h4 className="text-[20px] font-semibold leading-4 mb-[4vh]">
