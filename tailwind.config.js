@@ -6,7 +6,11 @@ export default {
         "./resources/js/**/*.vue",
     ],
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                "sf-pro": ["SF Pro Text"],
+            },
+        },
     },
     plugins: [],
 };

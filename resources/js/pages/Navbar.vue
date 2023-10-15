@@ -1,23 +1,25 @@
 <template>
-    <div className="flex items-center w-screen h-[10vh] bg-white shrink-0">
-        <div className="w-[65vw]">
+    <div className="flex items-center w-screen bg-white shrink-0">
+        <div className="lg:w-[65vw] md:w-[60vw] sm:w-[50vw] w-[40vw]">
             <div
-                className="w-[20vh] h-[8vh] ml-[8vw] my-auto bg-[url('assets/img/Logo.png')] bg-cover bg-no-repeat"
+                className="w-[10vw] h-[4vw] ml-[8vw] my-[1vw] bg-[url('assets/img/Logo.png')] bg-cover bg-no-repeat"
             ></div>
         </div>
-        <div className="flex items-center w-[35vw]">
+        <div
+            className="flex items-center lg:w-[35vw] md:w-[40vw] sm:w-[50vw] w-[60vw]"
+        >
             <a
-                className="h-[1.5rem] w-[5vw] text-[#202223] mr-[3.5vw] text-[16px] leading-5 not-italic font-medium font-['SF Pro Text']"
+                className="h-[1.5rem] w-[4.5rem] text-[#202223] mr-[4vw] text-[16px] leading-5 not-italic font-medium font-['SF Pro Text']"
             >
                 About
             </a>
             <a
-                className="h-[1.5rem] w-[5vw] text-[#202223] mr-[3.5vw] text-[16px] not-italic font-medium font-['SF Pro Text'] "
+                className="h-[1.5rem] w-[4.5rem] text-[#202223] mr-[4vw] text-[16px] leading-5 not-italic font-medium font-['SF Pro Text'] "
             >
                 Contact
             </a>
             <button
-                className="h-[2.75rem] w-[9vw] bg-[#0C8CE9] rounded-lg text-[14px] text-[#ffffff] leading-5 not-italic font-medium font-['SF Pro Text']"
+                className="h-[3rem] w-[6rem] bg-[#0C8CE9] my-[0.5rem] rounded-lg text-[14px] text-[#ffffff] leading-5 not-italic font-medium font-['SF Pro Text']"
             >
                 Download
             </button>
