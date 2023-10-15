@@ -1,6 +1,6 @@
 <template>
     <div
-        className="flex justify-center items-center flex-col m-[2vh] bg-white w-[25vw] h-[25vh] rounded-[14px] px-[2vw]"
+        className="flex  items-center flex-col py-[5vh] m-[2vh] bg-white w-[25vw] h-[30vh] rounded-[14px] px-[2vw]"
     >
         <template v-if="stepId === '1'">
             <h4

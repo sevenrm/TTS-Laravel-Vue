@@ -1,12 +1,5 @@
 <template>
-    <div className="flex justify-center flex-col items-center mt-[10vh]">
-        <h1 className="text-[#000] text-[40px] font-extrabold">
-            Free English Text to Speech 2023
-        </h1>
-        <p className="text-[#000] text-[20px] font-normal">
-            Use our free English text to speech platform to transform your
-            English text into a realistic voice.
-        </p>
+    <div className="w-full flex justify-center flex-col items-center mt-[10vh]">
         <MainForm
             :languages="getLanguages"
             @setLanguage="getCharacters"
@@ -41,7 +34,11 @@ export default {
         QuestionPanel,
     },
     setup() {
-        let characters = ref([]);
+        let firstCharacters = [];
+        for (let character of voiceData[0].details) {
+            firstCharacters.push(character.friendly);
+        }
+        let characters = ref(firstCharacters);
 
         const getLanguages = computed(() => {
             let languages = [];
