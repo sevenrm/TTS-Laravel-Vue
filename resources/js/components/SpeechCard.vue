@@ -1,10 +1,10 @@
 <template>
     <div
-        className="flex  items-center flex-col py-[5vh] m-[2vh] bg-white w-[25vw] h-[30vh] rounded-[14px] px-[2vw]"
+        className="flex  items-center flex-col py-[3rem] m-[2vh] bg-white lg:w-[25vw] md:w-[30vw] w-[60vw] h-[15rem] rounded-[14px] px-[2vw]"
     >
         <template v-if="stepId === '1'">
             <h4
-                className="text-[#0C8CE9] text-[16px] font-semibold text-center leading-4 mb-[4vh]"
+                className="text-[#0C8CE9] text-[16px] font-semibold text-center leading-4 mb-[3rem]"
             >
                 STEP 1
             </h4>
@@ -15,7 +15,7 @@
         </template>
         <template v-else-if="stepId === '2'">
             <h4
-                className="text-[#0C8CE9] text-[16px] font-semibold text-center leading-4 mb-[4vh]"
+                className="text-[#0C8CE9] text-[16px] font-semibold text-center leading-4 mb-[3rem]"
             >
                 STEP 2
             </h4>
@@ -26,7 +26,7 @@
         </template>
         <template v-else>
             <h4
-                className="text-[#0C8CE9] text-[16px] font-semibold text-center leading-4 mb-[4vh]"
+                className="text-[#0C8CE9] text-[16px] font-semibold text-center leading-4 mb-[3rem]"
             >
                 STEP 3
             </h4>

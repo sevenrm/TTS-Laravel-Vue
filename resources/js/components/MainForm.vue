@@ -1,5 +1,7 @@
 <template>
-    <div class="w-[61vw] flex flex-col justify-center items-center">
+    <div
+        class="lg:w-[65%] w-[80%] flex flex-col justify-center items-center box-border"
+    >
         <h1
             className="text-[#000] text-[40px] text-center font-extrabold mb-[2vh]"
         >
@@ -17,7 +19,7 @@
                 >Language</label
             >
             <select
-                className=" w-full h-[7vh] mb-[3%] border border-[##DDE1EB] rounded-lg pl-[3%] pr-[3%] text-[#23262A] text-[16px] font-medium leading-5"
+                className=" w-full h-[3rem] mb-[3%] border border-[##DDE1EB] rounded-lg pl-[3%] pr-[3%] text-[#23262A] text-[16px] font-medium leading-5"
                 placeholder="select language"
                 id="language"
                 @change="
@@ -38,7 +40,7 @@
                 >Character</label
             >
             <select
-                className="w-full h-[7vh] mb-[3vh] border border-[##DDE1EB] rounded-lg px-[3%] text-[#23262A] text-[16px] font-medium leading-5 invalid:text-[#B2BAC6]"
+                className="w-full h-[3rem] mb-[3vh] border border-[##DDE1EB] rounded-lg px-[3%] text-[#23262A] text-[16px] font-medium leading-5 invalid:text-[#B2BAC6]"
                 placeholder="select character"
                 id="character"
                 @change="
@@ -60,7 +62,7 @@
                 >Text</label
             >
             <textarea
-                className="w-full h-[21vh] border border-[##DDE1EB] rounded-lg px-[3%] py-[2%] text-[16px] font-medium leading-5 mb-[3%]"
+                className="w-full h-[9rem] border border-[##DDE1EB] rounded-lg px-[3%] py-[2%] text-[16px] font-medium leading-5 mb-[3%]"
                 cols="3"
                 placeholder="Enter text"
                 id="text"
@@ -73,7 +75,7 @@
             <input
                 type="submit"
                 value="Generate"
-                className="h-[7vh] w-full bg-[#0C8CE9] rounded-lg text-[14px] text-[#ffffff] leading-5 not-italic font-medium font-['SF Pro Text']"
+                className="h-[3rem] w-full bg-[#0C8CE9] rounded-lg text-[14px] text-[#ffffff] leading-5 not-italic font-medium font-['SF Pro Text']"
                 @click="doSubmit"
             />
         </form>

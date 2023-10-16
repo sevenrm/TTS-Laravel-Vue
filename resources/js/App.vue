@@ -1,5 +1,5 @@
 <template>
-    <div className="w-screen min-h-screen bg-[#f8fafc] font-sf-pro ">
+    <div className="w-[100%] min-h-screen bg-[#f8fafc] font-sf-pro">
         <Navbar />
         <Content />
     </div>
