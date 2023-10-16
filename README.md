@@ -23,7 +23,8 @@ Installation is simple. Just like your ordinary Laravel app.
 4. `cp .env.example .env`
 5. `php artisan key:generate`
 6. `npm install`
-7. `npm run watch` (or if production `npm run build`)
+7. `php artisan serve`
+8. `npm run dev` (or if production `npm run build`)
 
 ## ⚡️ How it works
 
@@ -36,9 +37,8 @@ module.exports = {
     // ...
     theme: {
         extend: {
-            colors: {
-                theme: colors.teal,
-                danger: colors.red,
+            fontFamily: {
+                "sf-pro": ["SF Pro Text"],
             },
         },
     },
