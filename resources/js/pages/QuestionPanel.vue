@@ -1,8 +1,8 @@
 <template>
     <div
-        className="flex flex-col items-center w-[55vw] my-[5vh] px-[2%] shrink-0 rounded-md"
+        className="flex flex-col items-center sm:w-[55%] w-[90%] my-[5vh] px-[2%] shrink-0 rounded-md"
     >
-        <h2 className="text-[32px] font-bold mb-[3vh]">
+        <h2 className="text-[32px] font-bold mb-[3vh] text-center">
             Frequently asked questions
         </h2>
         <QuestionCard questionId="1" />

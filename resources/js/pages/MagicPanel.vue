@@ -2,7 +2,7 @@
     <div
         className="flex items-center bg-white justify-center flex-col w-full py-[5vh] px-[7vw]"
     >
-        <h2 className="text-[32px] font-bold mb-[3vh]">
+        <h2 className="text-[32px] font-bold mb-[3vh] text-center">
             Unlock the Magic of Voice with Crikk
         </h2>
         <p
