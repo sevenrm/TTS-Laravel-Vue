@@ -50,11 +50,11 @@
                 "
             >
                 <option
-                    v-for="(character, index) in characters"
+                    v-for="(data, index) in datas"
                     :key="index"
-                    :value="character"
+                    :value="data.friendly"
                 >
-                    {{ character }}
+                    {{ data.friendly }}
                 </option>
                 <!-- <option disabled selected hidden>Select Character</option> -->
             </select>
@@ -79,14 +79,15 @@
                 @click="doSubmit"
             />
         </form>
-        <div className="w-full" v-show="isSuccess">
-            <AudioPanel />
+        <div className="w-full" v-if="audioURL?.length > 0">
+            <AudioPanel :audio="audioURL" />
         </div>
     </div>
 </template>
 
 <script>
 import { computed, ref } from "vue";
+import axios from "axios";
 import AudioPanel from "../pages/AudioPanel.vue";
 export default {
     name: "mainForm",
@@ -98,15 +99,26 @@ export default {
             type: Array,
             default: [],
         },
-        characters: {
+        datas: {
             type: Object,
             default: {},
         },
     },
     setup(props, { emit }) {
-        // console.log(props.characters);
-        const data = {};
-        const isSuccess = ref(false);
+        // console.log(props.datas);
+        const data = {
+            character: props.datas[0].friendly,
+            text: "",
+        };
+        const requestData = {
+            text: "",
+            voice: "",
+            rate: 20,
+            volume: -50,
+        };
+        const audioURL = ref("");
+
+        let SERVER_URL = import.meta.env.VITE_APP_URL;
 
         function getCharacter(character) {
             // console.log(character);
@@ -116,20 +128,34 @@ export default {
         function getLanguage(language) {
             // console.log(language);
             emit("setLanguage", language);
-            data.language = language;
         }
 
         function getText(text) {
-            console.log(text);
             data.text = text;
         }
 
         function doSubmit(e) {
             e.preventDefault();
-            // console.log("submit");
-            isSuccess.value = true;
+            audioURL.value = "";
+            getRequestData();
+            if (requestData.voice && requestData.text) {
+                axios
+                    .post("api/tts", requestData)
+                    .then((res) => {
+                        audioURL.value = `${SERVER_URL}:8000/audio/${res.data.audioURL}`;
+                        // console.log(audioURL.value);
+                    })
+                    .catch((err) => console.log(err));
+            }
+        }
 
-            // console.log(isSuccess.value);
+        function getRequestData() {
+            const currentData = props.datas.filter((voiceData, index) => {
+                return voiceData.friendly === data.character;
+            });
+            console.log(currentData[0]);
+            requestData.voice = currentData[0].voice;
+            requestData.text = data.text;
         }
 
         return {
@@ -137,7 +163,8 @@ export default {
             getCharacter,
             getText,
             doSubmit,
-            isSuccess,
+            getRequestData,
+            audioURL,
         };
     },
 };
