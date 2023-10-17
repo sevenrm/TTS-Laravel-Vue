@@ -5,9 +5,9 @@
         <h2 className="text-[32px] font-bold mb-[3vh]">Voice Samples</h2>
         <div className="flex items-center justify-center flex-wrap">
             <VoiceCard
-                v-for="(character, index) in characters"
+                v-for="(data, index) in datas"
                 :key="index"
-                :name="character"
+                :name="data.friendly"
             />
         </div>
     </div>
@@ -18,7 +18,7 @@ import VoiceCard from "../components/VoiceCard.vue";
 export default {
     name: "voicePanel",
     props: {
-        characters: {
+        datas: {
             type: Object,
             default: {},
         },
