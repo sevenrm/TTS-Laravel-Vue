@@ -78,6 +78,7 @@
                 className="h-[3rem] w-full bg-[#0C8CE9] rounded-lg text-[14px] text-[#ffffff] leading-5 not-italic font-medium font-['SF Pro Text']"
                 @click="doSubmit"
             />
+            <Loading :isLoading="isLoading" />
         </form>
         <div className="w-full" v-if="audioURL?.length > 0">
             <AudioPanel :audio="audioURL" />
@@ -89,10 +90,12 @@
 import { computed, ref, watch } from "vue";
 import axios from "axios";
 import AudioPanel from "../pages/AudioPanel.vue";
+import Loading from "./Loading.vue";
 export default {
     name: "mainForm",
     components: {
         AudioPanel,
+        Loading,
     },
     props: {
         languages: {
@@ -117,6 +120,8 @@ export default {
             volume: -50,
         };
         const audioURL = ref("");
+
+        const isLoading = ref(false);
 
         let SERVER_URL = import.meta.env.VITE_APP_URL;
 
@@ -144,10 +149,16 @@ export default {
             audioURL.value = "";
             getRequestData();
             if (requestData.voice && requestData.text) {
+                isLoading.value = true;
                 axios
                     .post("api/tts", requestData)
                     .then((res) => {
                         audioURL.value = `${SERVER_URL}:8000/audio/${res.data.audioURL}`;
+                        if (audioURL.value.length > 0) {
+                            isLoading.value = false;
+                            window.scrollBy(0, 500);
+                        }
+
                         // console.log(audioURL.value);
                     })
                     .catch((err) => console.log(err));
@@ -178,6 +189,7 @@ export default {
             doSubmit,
             getRequestData,
             audioURL,
+            isLoading,
         };
     },
 };
