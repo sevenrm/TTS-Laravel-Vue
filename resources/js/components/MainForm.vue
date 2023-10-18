@@ -86,7 +86,7 @@
 </template>
 
 <script>
-import { computed, ref } from "vue";
+import { computed, ref, watch } from "vue";
 import axios from "axios";
 import AudioPanel from "../pages/AudioPanel.vue";
 export default {
@@ -100,8 +100,8 @@ export default {
             default: [],
         },
         datas: {
-            type: Object,
-            default: {},
+            type: Array,
+            default: [],
         },
     },
     setup(props, { emit }) {
@@ -130,6 +130,11 @@ export default {
             emit("setLanguage", language);
         }
 
+        // let friendly = ref(props.datas[0].friendly);
+        // watch(friendly, (value) => {
+        //     data.character = value;
+        // });
+
         function getText(text) {
             data.text = text;
         }
@@ -150,11 +155,19 @@ export default {
         }
 
         function getRequestData() {
+            // console.log(props.datas);
+
             const currentData = props.datas.filter((voiceData, index) => {
+                // console.log(voiceData.friendly + " " + data.character);
                 return voiceData.friendly === data.character;
             });
-            console.log(currentData[0]);
-            requestData.voice = currentData[0].voice;
+            // console.log(currentData[0]);
+            if (currentData[0] !== undefined) {
+                requestData.voice = currentData[0].voice;
+            } else {
+                requestData.voice = props.datas[0].voice;
+            }
+
             requestData.text = data.text;
         }
 
