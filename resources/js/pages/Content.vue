@@ -52,6 +52,7 @@ export default {
             const voice = voiceData.filter((voice, index) => {
                 return voice.language === language;
             });
+            // console.log(voice[0].details);
             datas.value = [...voice[0].details];
         }
 

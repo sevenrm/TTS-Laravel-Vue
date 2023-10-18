@@ -7,7 +7,7 @@
             <source :src="audio" type="audio/mpeg" />
         </audio>
         <a
-            className="h-[7vh] w-[100%] bg-[#0C8CE9] rounded-lg text-[14px]
+            className="h-[7vh] w-[30%] bg-[#0C8CE9] rounded-lg text-[14px]
             text-[#ffffff] leading-5 not-italic font-medium mb-[7vh]"
             :href="audio"
             download="audio.mp3"
