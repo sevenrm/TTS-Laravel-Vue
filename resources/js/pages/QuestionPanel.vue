@@ -5,10 +5,23 @@
         <h2 className="text-[32px] font-bold mb-[3vh] text-center">
             Frequently asked questions
         </h2>
-        <QuestionCard questionId="1" />
-        <QuestionCard questionId="2" />
-        <QuestionCard questionId="3" />
-        <QuestionCard questionId="4" />
+        <QuestionCard
+            question="Is this text to speech free?"
+            answer="Yes, It's free"
+            :isOpen="true"
+        />
+        <QuestionCard
+            question="What is the output format?"
+            answer="MP3 file format"
+        />
+        <QuestionCard
+            question="How many languages does text-to-speech work in?"
+            answer="30 languages"
+        />
+        <QuestionCard
+            question="Can I use generated files for commercial purposes?"
+            answer="Yes, you can."
+        />
     </div>
 </template>
 
