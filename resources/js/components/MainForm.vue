@@ -124,6 +124,7 @@ export default {
         const isLoading = ref(false);
 
         let SERVER_URL = import.meta.env.VITE_APP_URL;
+        let SERVER_PORT = import.meta.env.VITE_APP_PORT;
 
         function getCharacter(character) {
             // console.log(character);
@@ -153,7 +154,7 @@ export default {
                 axios
                     .post("api/tts", requestData)
                     .then((res) => {
-                        audioURL.value = `${SERVER_URL}:8000/audio/${res.data.audioURL}`;
+                        audioURL.value = `${SERVER_URL}/audio/${res.data.audioURL}`;
                         if (audioURL.value.length > 0) {
                             isLoading.value = false;
                             window.scrollBy(0, 500);
